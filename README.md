@@ -1,4 +1,5 @@
-## Hi there 👋
+Cybersecurity Enthusiast | Penetration Tester & Ethical Hacker
+Focused on Vulnerability Assessment, Web Security (OWASP Top 10), and Red Teaming. Experienced with Kali Linux, Burp Suite, and Practical CTFs. Recognized for reporting a critical vulnerability on HackerOne. Proudly leading the Red Team Track at IEEE CS/CIS BSU 👋
 
 <!--
 **noorahmedox-cmd/noorahmedox-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
